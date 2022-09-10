@@ -1,5 +1,5 @@
 # ProyekRPL2022
-Kelompok 6 SD_IT WASH
+Kelompok ? SD_IT WASH
 - Tarsisius Risto Ardianto (205314090) 
 - Titus Guritno (205314110) 
 - Carolus Rico Aldeantoro (205314011) 
